@@ -5,5 +5,5 @@ I'm a Artificial intelligence Fresh Graduate passionate about AI projects and co
 ## 📫 Contact Me
 
 - Email: maramyabya@gmail.com
-- LinkedIn: [@johnDoe](https://bit.ly/3KMIhta)
+- LinkedIn: [@MaramAlshehri](https://bit.ly/3KMIhta)
 
