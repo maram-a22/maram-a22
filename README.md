@@ -4,6 +4,6 @@ I'm a Artificial intelligence Fresh Graduate passionate about AI projects and co
 
 ## 📫 Contact Me
 
-- Email: maramyabya@gmail.com
+- [Email](maramyabya@gmail.com)
 - [LinkedIn](https://bit.ly/3KMIhta)
 
