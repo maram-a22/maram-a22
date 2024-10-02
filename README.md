@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Maram 👋
 
-<!--
-**maram-a22/maram-a22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Artificial intelligence Fresh Graduate passionate about AI projects and contributing to the community. I love to explore new technologies and apply them in real-life projects.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 
+- 🌱 I’m learning  and 
+- 🤔 I’m looking for help with
+- 💬 Ask me about , , or 
+
+## 📫 Contact Me
+
+- Email: maramyabya@gmail.com
+- LinkedIn: [@johnDoe](https://bit.ly/3KMIhta)
+
